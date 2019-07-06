@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Andrew Davis</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Andrew Davis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Andrew Davis is a masters by dissertation (MSD) student at the University of Essex. Supervised by Alex Dumbrell, Andrew&amp;rsquo;s research primarily focuses on the structuring dynamics of microbial communities and how the diversity of these communities is connected to ecosystem processes. Utilizing R, bash, and other bioinformatics tools, Andrew is applying a variety of modeling, machine learning, and network analysis methods.&lt;/p&gt;
+
+&lt;p&gt;In addition to his research Andrew is part of the Pint of Science team for his university and has helped run multiple scientific communication events for the Colchester area. In his free time, Andrew enjoys hiking, traveling, and trying new food.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
